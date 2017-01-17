@@ -12,11 +12,11 @@ $ pip3 install -r requirements.txt
 
 Next add the following detials to the mentioned files : 
 
-Ibm Tone Analyser Credentials - utils/comments_analyser.py
-Facebook Graph API access token - utils/facebook_search.py
-Google Account Details - utils/google_trends.py
-Reddit API details - utils/reddit_search.py
-YouTubeAPI developer KEY - utils/youtube_api.py
+- Ibm Tone Analyser Credentials - utils/comments_analyser.py
+- Facebook Graph API access token - utils/facebook_search.py
+- Google Account Details - utils/google_trends.py
+- Reddit API details - utils/reddit_search.py
+- YouTubeAPI developer KEY - utils/youtube_api.py
 
 Next import the raw.json and processed.json as : 
 ```
