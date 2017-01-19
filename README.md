@@ -1,7 +1,7 @@
 YouTube Likes Count Prediction
 -----------------------------
 This method uses various OSM platforms' data to predict likes on a YouTube video
-![alt tag](https://gitlab.com/gupta.chetan1997/YoutubeLikesPredictor/raw/master/pipeline.jpg)
+![alt tag](https://github.com/guptachetan1997/YoutubeLikesPredictor/blob/master/pipeline.jpg)
 
 Steps to run (Assuming Ubuntu 16.04 with python3.X and mongoDB installed and setup):
 
